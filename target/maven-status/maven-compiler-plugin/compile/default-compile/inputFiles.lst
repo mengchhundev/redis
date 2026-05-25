@@ -1,0 +1,10 @@
+/home/user/Redis/src/main/java/com/redis/demo/model/User.java
+/home/user/Redis/src/main/java/com/redis/demo/examples/TTLAndExpiryDemo.java
+/home/user/Redis/src/main/java/com/redis/demo/examples/PubSubDemo.java
+/home/user/Redis/src/main/java/com/redis/demo/examples/CacheAsideDemo.java
+/home/user/Redis/src/main/java/com/redis/demo/examples/DataTypesDemo.java
+/home/user/Redis/src/main/java/com/redis/demo/service/FakeDatabase.java
+/home/user/Redis/src/main/java/com/redis/demo/Main.java
+/home/user/Redis/src/main/java/com/redis/demo/service/UserCacheService.java
+/home/user/Redis/src/main/java/com/redis/demo/examples/BasicOperationsDemo.java
+/home/user/Redis/src/main/java/com/redis/demo/config/RedisConfig.java
